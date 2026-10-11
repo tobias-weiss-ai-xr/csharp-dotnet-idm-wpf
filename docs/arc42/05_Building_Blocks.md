@@ -105,10 +105,10 @@ tests/CoordService.Tests/
 
 **Screenshot: Visual Studio Solution Explorer**
 
-![Solution Explorer](screenshots/solution-explorer.svg)
+![Solution Explorer](screenshots/solution-explorer.png)
 *Figure: Project structure in VS/IntelliJ/Rider*
 
 **Screenshot: Code Snippet - ACO Algorithm**
 
-![ACO Code](screenshots/aco-code-snippet.svg)
+![ACO Code](screenshots/aco-code-snippet.png)
 *Figure: Core ACO implementation in z_AntColonyOptimizer.cs*

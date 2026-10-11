@@ -156,15 +156,15 @@ User    HTTP    CoordService           ACO Algorithm
 
 **Screenshot: cURL Greedy Request**
 
-![cURL Greedy](screenshots/curl-greedy.svg)
+![cURL Greedy](screenshots/curl-greedy.png)
 *Figure: Sample cURL request and response for greedy optimization*
 
 **Screenshot: cURL ACO Request**
 
-![cURL ACO](screenshots/curl-aco.svg)
+![cURL ACO](screenshots/curl-aco.png)
 *Figure: Sample cURL request and response for ACO optimization*
 
 **Screenshot: Sequence Diagram Visual**
 
-![Runtime Sequence](screenshots/runtime-sequence.svg)
+![Runtime Sequence](screenshots/runtime-sequence.png)
 *Figure: Visual sequence diagram for secured request flow*

@@ -67,5 +67,5 @@
 
 **Screenshot: Glossary Mind Map**
 
-![Glossary Mind Map](screenshots/glossary-mindmap.svg)
+![Glossary Mind Map](screenshots/glossary-mindmap.png)
 *Figure: Visual representation of key terms and their relationships*

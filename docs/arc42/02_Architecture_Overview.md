@@ -73,5 +73,5 @@ CoordService Demo
 
 **Architecture Diagram (C4 Level 1)**
 
-![Architecture C4 Level 1](screenshots/architecture-c4-l1.svg)
+![Architecture C4 Level 1](screenshots/architecture-c4-l1.png)
 *Figure: System context with Keycloak and HTTP clients*

@@ -139,10 +139,10 @@ dotnet test tests/CoordService.Tests/
 
 **Screenshot: Test Results**
 
-![Test Results](screenshots/test-results.svg)
+![Test Results](screenshots/test-results.png)
 *Figure: dotnet test output showing 6 passed tests*
 
 **Screenshot: Quality Dashboard**
 
-![Quality Dashboard](screenshots/quality-dashboard.svg)
+![Quality Dashboard](screenshots/quality-dashboard.png)
 *Figure: Quality gates status overview*

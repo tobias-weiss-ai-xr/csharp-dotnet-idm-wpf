@@ -46,12 +46,12 @@ CoordService is a **Minimal API** web service that:
 
 **Screenshot: Swagger UI Endpoints**
 
-![Swagger UI](screenshots/swagger-ui.svg)
+![Swagger UI](screenshots/swagger-ui.png)
 *Figure 1: POST /coords/optimize and /coords/optimize/aco endpoints*
 
 ---
 
 **Screenshot: Docker Compose Services**
 
-![Docker Compose](screenshots/docker-compose.svg)
+![Docker Compose](screenshots/docker-compose.png)
 *Figure 2: Keycloak + CoordService containers running*

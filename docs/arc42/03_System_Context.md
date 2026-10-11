@@ -72,7 +72,7 @@
 
 **System Context Diagram (Visual)**
 
-![System Context Diagram](screenshots/system-context.svg)
+![System Context Diagram](screenshots/system-context.png)
 *Figure: C4 Level 1 - System context with users and systems* 
 
 **Sequence: Single Optimized Request**
@@ -92,5 +92,5 @@ API Consumer    CoordService      Keycloak
 
 **Screenshot: Postman Request**
 
-![Postman Optimize](screenshots/postman-optimize.svg)
+![Postman Optimize](screenshots/postman-optimize.png)
 *Figure: Testing /coords/optimize endpoint with cURL/Postman*

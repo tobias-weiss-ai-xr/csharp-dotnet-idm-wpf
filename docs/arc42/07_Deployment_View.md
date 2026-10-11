@@ -125,15 +125,15 @@ networks:
 
 **Screenshot: docker compose up**
 
-![docker compose up](screenshots/docker-compose-up.svg)
+![docker compose up](screenshots/docker-compose-up.png)
 *Figure: Running containers in terminal*
 
 **Screenshot: Docker Desktop**
 
-![Docker Desktop](screenshots/docker-desktop.svg)
+![Docker Desktop](screenshots/docker-compose-up.png)
 *Figure: Both containers running in Docker Desktop*
 
 **Screenshot: Container Logs**
 
-![Container Logs](screenshots/container-logs.svg)
+![Container Logs](screenshots/container-logs.png)
 *Figure: CoordService startup logs showing OIDC configuration*

@@ -44,10 +44,10 @@
 
 **Screenshot: ACO Algorithm Flow**
 
-![ACO Flow Diagram](screenshots/aco-flow.svg)
+![ACO Flow Diagram](screenshots/aco-flow.png)
 *Figure: Ant Colony Optimization iterative improvement cycle*
 
 **Screenshot: Algorithm Comparison Results**
 
-![Greedy vs ACO](screenshots/greedy-vs-aco.svg)
+![Greedy vs ACO](screenshots/greedy-vs-aco.png)
 *Figure: Path quality comparison between Greedy NN and ACO on sample dataset*

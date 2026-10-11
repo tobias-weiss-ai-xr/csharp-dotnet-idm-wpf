@@ -167,10 +167,10 @@ csharp-dotnet-idm-wpf/
 
 **Screenshot: Decision Record Template**
 
-![ADR Template](screenshots/adr-template.svg)
+![ADR Template](screenshots/adr-template.png)
 *Figure: Standard MADR template used for all decisions*
 
 **Screenshot: ADR Index**
 
-![ADR Index](screenshots/adr-index.svg)
+![ADR Index](screenshots/adr-index.png)
 *Figure: All ADRs in architecture decisions log*

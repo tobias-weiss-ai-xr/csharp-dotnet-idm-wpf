@@ -139,15 +139,15 @@ public record CoordRequest(CoordPoint[] Points);
 
 **Screenshot: Keycloak Admin - Client Configuration**
 
-![Keycloak Client Config](screenshots/keycloak-client-config.svg)
+![Keycloak Client Config](screenshots/keycloak-client-list.png)
 *Figure: coord-service client in Keycloak Admin*
 
 **Screenshot: JWT Token Structure**
 
-![JWT Token](screenshots/jwt-token.svg)
+![JWT Token](screenshots/jwt-token.png)
 *Figure: Decoded JWT showing standard OIDC claims (iss, aud, sub, exp)*
 
 **Screenshot: Error Response**
 
-![401 Unauthorized](screenshots/401-unauthorized.svg)
+![401 Unauthorized](screenshots/401-unauthorized.png)
 *Figure: Missing token returns 401* (for secured endpoints when enabled)

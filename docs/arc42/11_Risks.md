@@ -56,10 +56,10 @@
 
 **Screenshot: Technical Debt Board**
 
-![Tech Debt](screenshots/technical-debt.svg)
+![Tech Debt](screenshots/technical-debt.png)
 *Figure: Prioritized list of technical debts and resolutions*
 
 **Screenshot: Risk Matrix**
 
-![Risk Matrix](screenshots/risk-matrix.svg)
+![Risk Matrix](screenshots/risk-matrix.png)
 *Figure: Risk probability vs impact visualization*
