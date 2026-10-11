@@ -1,0 +1,8 @@
+# Build outputs
+**/bin/
+**/obj/
+
+# User files
+*.user
+*.suo
+.DS_Store
